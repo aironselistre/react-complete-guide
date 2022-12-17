@@ -1,0 +1,5 @@
+1 - State:
+https://academind.com/tutorials/what-is-state
+
+2 - Upload Image:
+https://academind.com/tutorials/reactjs-image-upload
